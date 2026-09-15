@@ -4,7 +4,7 @@ Welcome to my backend development repository! This repository documents my journ
 
 ## 📌 About Me
 
-Hi, I'm **Nitin Bhardwaj**, a Computer Science student passionate about software development and problem-solving. I'm currently focused on mastering backend technologies and building scalable, secure, and efficient applications.
+Hi, I'm **Neil Dua**, a Computer Science student passionate about software development and problem-solving. I'm currently focused on mastering backend technologies and building scalable, secure, and efficient applications.
 
 ## 🎯 Goals
 
@@ -95,11 +95,6 @@ Projects will be added as I continue learning. Each project will include:
 ## 🤝 Contributions
 
 Suggestions, improvements, and constructive feedback are always welcome.
-
-## 📫 Connect With Me
-
-* GitHub: **https://github.com/nitinbhhardwaj**
-* LinkedIn: *https://www.linkedin.com/in/nitin-bhardwaj-8bb880395/*
 
 ---
 
